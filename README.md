@@ -42,4 +42,4 @@ If you use this code, please cite:
 Lenormand M, Jabot F & Deffuant G (2013) [Adaptive approximate Bayesian computation for complex models.](http://link.springer.com/article/10.1007%2Fs00180-013-0428-3) *Computational Statistics* 28, 2777-2796.
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
-You can reach me at maxime.lenormand[at]irstea.fr
+You can reach me at maxime.lenormand[at]inrae.fr
