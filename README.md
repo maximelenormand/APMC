@@ -25,7 +25,7 @@ and an implementation of the toy model,
 
 ## References
 
-[1] Lenormand *et al.* (2013) [Adaptive approximate Bayesian computation for complex models.](https://www.maximelenormand.com/Publications#ahiapaper) *Computational Statistics* 28, 2777-2796.
+[1] Lenormand *et al.* (2013) [Adaptive approximate Bayesian computation for complex models.](https://www.maximelenormand.com/Publications#apmcpaper) *Computational Statistics* 28, 2777-2796.
 
 [2] Beaumont *et al.* (2009) [Adaptive  approximate  Bayesian  computation](https://academic.oup.com/biomet/article/96/4/983/220502). *Biometrika* 96, 983–990.
 
@@ -39,7 +39,7 @@ and an implementation of the toy model,
 
 If you use this code, please cite:
 
-Lenormand M, Jabot F & Deffuant G (2013) [Adaptive approximate Bayesian computation for complex models.](https://www.maximelenormand.com/Publications#ahiapaper) *Computational Statistics* 28, 2777-2796.
+Lenormand M, Jabot F & Deffuant G (2013) [Adaptive approximate Bayesian computation for complex models.](https://www.maximelenormand.com/Publications#apmcpaper) *Computational Statistics* 28, 2777-2796.
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
 You can reach me at maxime.lenormand[at]inrae.fr
