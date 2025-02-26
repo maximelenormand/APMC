@@ -2,14 +2,22 @@
 
 ## Description
 
-This repository proposes several fonctions used in [[1]](http://link.springer.com/article/10.1007%2Fs00180-013-0428-3). In this paper, we propose a new approximate Bayesian computation (ABC) algorithm that we compared with three other algorithms: the Population Monte Carlo algorithm [[2]](https://academic.oup.com/biomet/article/96/4/983/220502),
-the Sequential Monte Carlo algorithm [[3]](https://link.springer.com/article/10.1007/s11222-011-9271-y)
-and the Replenishement Sequential Monte Carlo algorithm  [[4]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1541-0420.2010.01410.x). We compare them using the toy example studied in [[5]](https://www.pnas.org/content/104/6/1760?ijkey=d09a94d7744324fa718c59a5e96d840d39a67485&keytype2=tf_ipsecsha)
+This repository proposes several algorithms used in 
+[[1]](http://link.springer.com/article/10.1007%2Fs00180-013-0428-3). 
+In this paper, we proposed a new approximate Bayesian computation (ABC) 
+algorithm that we compared with three other algorithms: the Population Monte 
+Carlo algorithm [[2]](https://academic.oup.com/biomet/article/96/4/983/220502),
+the Sequential Monte Carlo algorithm 
+[[3]](https://link.springer.com/article/10.1007/s11222-011-9271-y)
+and the Replenishement Sequential Monte Carlo algorithm 
+[[4]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1541-0420.2010.01410.x). 
+We compare them using the toy example studied in 
+[[5]](https://www.pnas.org/content/104/6/1760?ijkey=d09a94d7744324fa718c59a5e96d840d39a67485&keytype2=tf_ipsecsha).
 
+## Scripts
 
-## Contents of the repository
-
-This repository contains an implementation of the four ABC algorithms described in the paper,  
+This repository contains an implementation of the four ABC algorithms described 
+in the paper,  
 
 * **APMC:** Adaptive population Monte Carlo [[1]](http://link.springer.com/article/10.1007%2Fs00180-013-0428-3)
 * **PMC:** Population Monte Carlo [[2]](https://academic.oup.com/biomet/article/96/4/983/220502)
@@ -19,7 +27,9 @@ This repository contains an implementation of the four ABC algorithms described 
 and an implementation of the toy model,
 
 * **ToyEx:** Toy example proposed by [[5]](https://www.pnas.org/content/104/6/1760?ijkey=d09a94d7744324fa718c59a5e96d840d39a67485&keytype2=tf_ipsecsha)
-* **L2:** Compute the L2 distance between a simulated (weighted particles) and the true posterior density for the toy example proposed by [[5]](https://www.pnas.org/content/104/6/1760?ijkey=d09a94d7744324fa718c59a5e96d840d39a67485&keytype2=tf_ipsecsha)
+* **L2:** Compute the L2 distance between a simulated (weighted particles) and 
+the true posterior density for the toy example proposed by 
+[[5]](https://www.pnas.org/content/104/6/1760?ijkey=d09a94d7744324fa718c59a5e96d840d39a67485&keytype2=tf_ipsecsha)
 * **sample:** Sample x particles from a weighted distribution 
 
 ## References
